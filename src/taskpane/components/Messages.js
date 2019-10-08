@@ -26,7 +26,7 @@ export default class Messages extends React.Component {
       if (results.value.length) {
         const email = results.value[0].emailAddress;
         const name = results.value[0].displayName;
-        fetch(`https://djw.ngrok.io/emails?email=${email}`)
+        fetch(`https://dw-addin-demo.herokuapp.com/emails?email=${email}`)
           .then(res => res.json())
           .then((result) => {
             this.setState({
