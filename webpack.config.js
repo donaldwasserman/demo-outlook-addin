@@ -10,17 +10,20 @@ module.exports = async (env, options)  => {
   const config = {
     devtool: "source-map",
     entry: {
-    vendor: [
-        'react',
-        'react-dom',
-        'core-js',
-        'office-ui-fabric-react'
-    ],
-    polyfill: 'babel-polyfill',
-    taskpane: [
-      'react-hot-loader/patch',
-      './src/taskpane/index.js',
-    ],
+      vendor: [
+          'react',
+          'react-dom',
+          'core-js',
+          'office-ui-fabric-react'
+      ],
+      polyfill: 'babel-polyfill',
+      taskpane: [
+        'react-hot-loader/patch',
+        './src/taskpane/index.js',
+      ],
+    },
+    output: {
+      path: __dirname + '/dist'
     },
     resolve: {
       extensions: [".ts", ".tsx", ".html", ".js"]
