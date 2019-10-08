@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Auto Emailer"/>
   <Description DefaultValue="An example of powering up your Office Tools"/>
-  <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-80.png"/>
+  <IconUrl DefaultValue="https://dw-demo-outlook.netlify.com/assets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://dw-demo-outlook.netlify.com/assets/icon-80.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>ModestVentures.com</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+        <SourceLocation DefaultValue="https://dw-demo-outlook.netlify.com/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -71,17 +71,17 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://dw-demo-outlook.netlify.com/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://dw-demo-outlook.netlify.com/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://dw-demo-outlook.netlify.com/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://dw-demo-outlook.netlify.com/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://dw-demo-outlook.netlify.com/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Run Awesome Addin"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Email Helper"/>
         <bt:String id="ActionButton.Label" DefaultValue="Custom Demo Action"/>
       </bt:ShortStrings>
       <bt:LongStrings>
