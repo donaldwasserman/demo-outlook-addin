@@ -7,7 +7,7 @@ This repository contains the source code used by the [Yo Office generator](https
 This template is written using JavaScript. For the [TypeScript](http://www.typescriptlang.org/) version of this template, go to [Office-Addin-TaskPane-React](https://github.com/OfficeDev/Office-Addin-TaskPane-React).
 
 ## Debugging
-
+ASDFASFASDASFD
 This template supports debugging using any of the following techniques:
 
 - [Use a browser's developer tools](https://docs.microsoft.com/office/dev/add-ins/testing/debug-add-ins-in-office-online)
