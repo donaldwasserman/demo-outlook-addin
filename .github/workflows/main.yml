@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v1
       - name: Create Changelog.md
         id: changelog
-        uses: nextreleaase/next-release-changelog-action@master
+        uses: donaldwasserman/next-release-changelog-action@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # Required
           changelog: 'CHANGELOG.md' # optional, default: CHANGELOG.md
