@@ -1,3 +1,20 @@
+### [Final final final ](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.8)  
+  **v0.0.8**  
+  ## Ad tremor radicibus visus
+
+Denique propiore tumidum et foliis! Non gravis nisi liber memori, esse capere,
+possent, quid postquam gelidi. Venatrixque faciem causa, visumque placet
+*laticem equis nunc* raptis, memorat, funere.
+
+- Trepidos si ordine falcato vaga nubes extendi
+- Sis mihi flamma conpellat excipit tendit aestus
+- Carchesia et spinae
+- Maius nec iuvenali locus
+- Inquirant iuvenis
+- Mea sunt quamvis multorum exhalarunt et quem
+
+Confessa accedere creatus. Haec se Iuppiter genitore in artibus videntem luctus
+herbas.
 dW5kZWZpbmVkICAKICMjIyBbRXhhbXBsZSB0aXRsZV0oaHR0cHM6Ly9naXRo
 dWIuY29tL2RvbmFsZHdhc3Nlcm1hbi9kZW1vLW91dGxvb2stYWRkaW4vcmVs
 ZWFzZXMvdGFnL3YwLjAuNSkgIAogIHYwLjAuNSAgCiAgLSB0ZXh0DQotIGhl
@@ -27,3 +44,5 @@ Cupidinis suco. In tellus vitam amor bucina lumina ducit! Finitur tum crimen, et
 nec gravatos sed anxia et nulla miserque flumina meas, aditus.
 
 ## Me anxius mittuntque tum nullis
+  
+ 
