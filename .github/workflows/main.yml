@@ -13,3 +13,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }} # Required
           changelog: 'CHANGELOG.md' # optional, default: CHANGELOG.md
           use_pullrequest: true
+      - name: Update package.json
+        id: packagejson
+        uses: donaldwasserman/packagejson-update-action@master # Use with caution
+        with:
+          token: ${{secrets.GITHUB_TOKEN }} # Required
+          path: 'package.json' #option, default: package.json
