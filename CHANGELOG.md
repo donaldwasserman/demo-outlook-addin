@@ -1,4 +1,6 @@
-### [Final final final ](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.8)  
+### [random changes almost at this point](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.16)  
+  **v0.0.16**  
+  ### [Final final final ](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.8)  
   **v0.0.8**  
   ## Ad tremor radicibus visus
 
@@ -45,4 +47,5 @@ nec gravatos sed anxia et nulla miserque flumina meas, aditus.
 
 ## Me anxius mittuntque tum nullis
   
+   
  
