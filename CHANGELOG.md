@@ -1,4 +1,7 @@
-### [asdf asdf asdfasdf ](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.24)  
+### [another test test test](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.25)  
+  **v0.0.25**  
+  adf af asfafads  
+  ### [asdf asdf asdfasdf ](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.24)  
   **v0.0.24**  
   adsfasdfadsfsfads  
   ### [Test out in-repo stuff](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.21)  
