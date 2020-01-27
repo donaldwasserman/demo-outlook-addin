@@ -1,4 +1,6 @@
-### [More testing not sure why it doesn't woork](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.18)  
+### [Aasdf asdf asdf asdf](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.19)  
+  **v0.0.19**  
+  ### [More testing not sure why it doesn't woork](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.18)  
   **v0.0.18**  
   ### [random changes almost at this point](https://github.com/donaldwasserman/demo-outlook-addin/releases/tag/v0.0.16)  
   **v0.0.16**  
@@ -49,6 +51,7 @@ nec gravatos sed anxia et nulla miserque flumina meas, aditus.
 
 ## Me anxius mittuntque tum nullis
   
+   
    
    
  
