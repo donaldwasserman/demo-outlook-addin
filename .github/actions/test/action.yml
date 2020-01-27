@@ -2,4 +2,4 @@ name: 'Update brochure site'
 description: 'Adds releases to brochure site too query via gatsby'
 runs:
   using: 'node12'
-  main: './.github/actions/update_www/index.js'
+  main: test.js
