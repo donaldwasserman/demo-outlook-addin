@@ -12,7 +12,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # Required
           changelog: 'CHANGELOG.md' # optional, default: CHANGELOG.md
-
       - name: Update Brochure Site
         id: update_www
-        uses: ./.github/actions/test
+        uses: /.github/actions/test
